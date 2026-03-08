@@ -16,7 +16,6 @@
 
 ## 🌐 Connect with Me
 * **LinkedIn:** [linkedin.com/in/mujde-guner-msc](https://linkedin.com/in/mujde-guner-msc)
-* **Portfolio:** [View my Dashboards on Novypro](https://www.novypro.com/) *(Buraya kendi Novypro linkini ekleyebilirsin)*
 
 ---
 *"Turning data into strategy, one insight at a time."*
