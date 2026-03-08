@@ -10,7 +10,7 @@
 * **Operational Excellence Tracking:** Maintaining and optimizing automated reports to drive stakeholder decision-making.
 
 ## 🛠️ Technical Toolkit
-* **Data Visualization:** Power BI (Advanced Dashboard Design), Tableau.
+* **Data Visualization:** Power BI (Advanced Dashboard Design)
 * **Analytics & Research:** Market Research, Business Performance Analytics, Data Modeling.
 * **Education:** Master of Science (MSc) in Information Technologies.
 
