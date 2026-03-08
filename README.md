@@ -5,9 +5,7 @@
 ---
 
 ## 🚀 Featured Projects
-* **Commercial Performance Dashboard:** An end-to-end Power BI solution monitoring key business KPIs and market trends.
-* **Market Insight Analysis:** Comprehensive research projects identifying growth opportunities and consumer behavior patterns.
-* **Operational Excellence Tracking:** Maintaining and optimizing automated reports to drive stakeholder decision-making.
+* **HR Attrition Analysis | SQL & Power BI: End-to-end analysis of employee turnover. Extracted data from SQL and created an interactive dashboard in Power BI to identify key attrition drivers.
 
 ## 🛠️ Technical Toolkit
 * **Data Visualization:** Power BI (Advanced Dashboard Design)
