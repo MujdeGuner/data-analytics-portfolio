@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Featured Projects
-* **HR Attrition Analysis | SQL & Power BI: End-to-end analysis of employee turnover. Extracted data from SQL and created an interactive dashboard in Power BI to identify key attrition drivers.
+* HR Attrition Analysis | SQL & Power BI: End-to-end analysis of employee turnover. Extracted data from SQL and created an interactive dashboard in Power BI to identify key attrition drivers.
 
 ## 🛠️ Technical Toolkit
 * **Data Visualization:** Power BI (Advanced Dashboard Design)
