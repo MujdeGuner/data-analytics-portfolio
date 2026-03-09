@@ -1,0 +1,100 @@
+﻿customerID;gender;SeniorCitizen;SC_New;Partner;Dependents;tenure;TNR_New;PhoneService;MultipleLines;InternetService;OnlineSecurity;OnlineBackup;DeviceProtection;TechSupport;PRO_New;StreamingTV;StreamingMovies;Contract;C_New;PaperlessBilling;PaymentMethod;MonthlyCharges;TotalCharges;Churn;Churn_New;Segment
+7590-VHVEG;Female;0;J;Yes;No;1;_6AY;No;No phone service;DSL;No;Yes;No;No;_Using;No;No;Month-to-month;_MM;Yes;Electronic check;29,85;29,85;No;0;J_6AY_Using_MM
+5575-GNVDE;Male;0;J;No;No;34;_16AY+;Yes;No;DSL;Yes;No;Yes;No;_Using;No;No;One year;_OY;No;Mailed check;56,95;1889,50;No;0;J_16AY+_Using_OY
+3668-QPYBK;Male;0;J;No;No;2;_6AY;Yes;No;DSL;Yes;Yes;No;No;_Using;No;No;Month-to-month;_MM;Yes;Mailed check;53,85;108,15;Yes;1;J_6AY_Using_MM
+7795-CFOCW;Male;0;J;No;No;45;_16AY+;No;No phone service;DSL;Yes;No;Yes;Yes;_Using;No;No;One year;_OY;No;Bank transfer (automatic);42,30;1840,75;No;0;J_16AY+_Using_OY
+9237-HQITU;Female;0;J;No;No;2;_6AY;Yes;No;Fiber optic;No;No;No;No;_NotUsing;No;No;Month-to-month;_MM;Yes;Electronic check;70,70;151,65;Yes;1;J_6AY_NotUsing_MM
+9305-CDSKC;Female;0;J;No;No;8;_16AY;Yes;Yes;Fiber optic;No;No;Yes;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;99,65;820,50;Yes;1;J_16AY_Using_MM
+1452-KIOVK;Male;0;J;No;Yes;22;_16AY+;Yes;Yes;Fiber optic;No;Yes;No;No;_Using;Yes;No;Month-to-month;_MM;Yes;Credit card (automatic);89,10;1949,40;No;0;J_16AY+_Using_MM
+6713-OKOMC;Female;0;J;No;No;10;_16AY;No;No phone service;DSL;Yes;No;No;No;_Using;No;No;Month-to-month;_MM;No;Mailed check;29,75;301,90;No;0;J_16AY_Using_MM
+7892-POOKP;Female;0;J;Yes;No;28;_16AY+;Yes;Yes;Fiber optic;No;No;Yes;Yes;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;104,80;3046,05;Yes;1;J_16AY+_Using_MM
+6388-TABGU;Male;0;J;No;Yes;62;_16AY+;Yes;No;DSL;Yes;Yes;No;No;_Using;No;No;One year;_OY;No;Bank transfer (automatic);56,15;3487,95;No;0;J_16AY+_Using_OY
+9763-GRSKD;Male;0;J;Yes;Yes;13;_16AY;Yes;No;DSL;Yes;No;No;No;_Using;No;No;Month-to-month;_MM;Yes;Mailed check;49,95;587,45;No;0;J_16AY_Using_MM
+7469-LKBCI;Male;0;J;No;No;16;_16AY;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;No;Credit card (automatic);18,95;326,80;No;0;J_16AY_NotUsing_TY
+8091-TTVAX;Male;0;J;Yes;No;58;_16AY+;Yes;Yes;Fiber optic;No;No;Yes;No;_Using;Yes;Yes;One year;_OY;No;Credit card (automatic);100,35;5681,10;No;0;J_16AY+_Using_OY
+0280-XJGEX;Male;0;J;No;No;49;_16AY+;Yes;Yes;Fiber optic;No;Yes;Yes;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Bank transfer (automatic);103,70;5036,30;Yes;1;J_16AY+_Using_MM
+5129-JLPIS;Male;0;J;No;No;25;_16AY+;Yes;No;Fiber optic;Yes;No;Yes;Yes;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;105,50;2686,05;No;0;J_16AY+_Using_MM
+3655-SNQYZ;Female;0;J;Yes;Yes;69;_16AY+;Yes;Yes;Fiber optic;Yes;Yes;Yes;Yes;_Using;Yes;Yes;Two year;_TY;No;Credit card (automatic);113,25;7895,15;No;0;J_16AY+_Using_TY
+8191-XWSZG;Female;0;J;No;No;52;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;One year;_OY;No;Mailed check;20,65;1022,95;No;0;J_16AY+_NotUsing_OY
+9959-WOFKT;Male;0;J;No;Yes;71;_16AY+;Yes;Yes;Fiber optic;Yes;No;Yes;No;_Using;Yes;Yes;Two year;_TY;No;Bank transfer (automatic);106,70;7382,25;No;0;J_16AY+_Using_TY
+4190-MFLUW;Female;0;J;Yes;Yes;10;_16AY;Yes;No;DSL;No;No;Yes;Yes;_Using;No;No;Month-to-month;_MM;No;Credit card (automatic);55,20;528,35;Yes;1;J_16AY_Using_MM
+4183-MYFRB;Female;0;J;No;No;21;_16AY+;Yes;No;Fiber optic;No;Yes;Yes;No;_Using;No;Yes;Month-to-month;_MM;Yes;Electronic check;90,05;1862,90;No;0;J_16AY+_Using_MM
+8779-QRDMV;Male;1;S;No;No;1;_6AY;No;No phone service;DSL;No;No;Yes;No;_Using;No;Yes;Month-to-month;_MM;Yes;Electronic check;39,65;39,65;Yes;1;S_6AY_Using_MM
+1680-VDCWW;Male;0;J;Yes;No;12;_16AY;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;One year;_OY;No;Bank transfer (automatic);19,80;202,25;No;0;J_16AY_NotUsing_OY
+1066-JKSGK;Male;0;J;No;No;1;_6AY;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Month-to-month;_MM;No;Mailed check;20,15;20,15;Yes;1;J_6AY_NotUsing_MM
+3638-WEABW;Female;0;J;Yes;No;58;_16AY+;Yes;Yes;DSL;No;Yes;No;Yes;_Using;No;No;Two year;_TY;Yes;Credit card (automatic);59,90;3505,10;No;0;J_16AY+_Using_TY
+6322-HRPFA;Male;0;J;Yes;Yes;49;_16AY+;Yes;No;DSL;Yes;Yes;No;Yes;_Using;No;No;Month-to-month;_MM;No;Credit card (automatic);59,60;2970,30;No;0;J_16AY+_Using_MM
+6865-JZNKO;Female;0;J;No;No;30;_16AY+;Yes;No;DSL;Yes;Yes;No;No;_Using;No;No;Month-to-month;_MM;Yes;Bank transfer (automatic);55,30;1530,60;No;0;J_16AY+_Using_MM
+6467-CHFZW;Male;0;J;Yes;Yes;47;_16AY+;Yes;Yes;Fiber optic;No;Yes;No;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;99,35;4749,15;Yes;1;J_16AY+_Using_MM
+8665-UTDHZ;Male;0;J;Yes;Yes;1;_6AY;No;No phone service;DSL;No;Yes;No;No;_Using;No;No;Month-to-month;_MM;No;Electronic check;30,20;30,20;Yes;1;J_6AY_Using_MM
+5248-YGIJN;Male;0;J;Yes;No;72;_16AY+;Yes;Yes;DSL;Yes;Yes;Yes;Yes;_Using;Yes;Yes;Two year;_TY;Yes;Credit card (automatic);90,25;6369,45;No;0;J_16AY+_Using_TY
+8773-HHUOZ;Female;0;J;No;Yes;17;_16AY+;Yes;No;DSL;No;No;No;No;_NotUsing;Yes;Yes;Month-to-month;_MM;Yes;Mailed check;64,70;1093,10;Yes;1;J_16AY+_NotUsing_MM
+3841-NFECX;Female;1;S;Yes;No;71;_16AY+;Yes;Yes;Fiber optic;Yes;Yes;Yes;Yes;_Using;No;No;Two year;_TY;Yes;Credit card (automatic);96,35;6766,95;No;0;S_16AY+_Using_TY
+4929-XIHVW;Male;1;S;Yes;No;2;_6AY;Yes;No;Fiber optic;No;No;Yes;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Credit card (automatic);95,50;181,65;No;0;S_6AY_Using_MM
+6827-IEAUQ;Female;0;J;Yes;Yes;27;_16AY+;Yes;No;DSL;Yes;Yes;Yes;Yes;_Using;No;No;One year;_OY;No;Mailed check;66,15;1874,45;No;0;J_16AY+_Using_OY
+7310-EGVHZ;Male;0;J;No;No;1;_6AY;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Month-to-month;_MM;No;Bank transfer (automatic);20,20;20,20;No;0;J_6AY_NotUsing_MM
+3413-BMNZE;Male;1;S;No;No;1;_6AY;Yes;No;DSL;No;No;No;No;_NotUsing;No;No;Month-to-month;_MM;No;Bank transfer (automatic);45,25;45,25;No;0;S_6AY_NotUsing_MM
+6234-RAAPL;Female;0;J;Yes;Yes;72;_16AY+;Yes;Yes;Fiber optic;Yes;Yes;No;Yes;_Using;Yes;No;Two year;_TY;No;Bank transfer (automatic);99,90;7251,70;No;0;J_16AY+_Using_TY
+6047-YHPVI;Male;0;J;No;No;5;_6AY;Yes;No;Fiber optic;No;No;No;No;_NotUsing;No;No;Month-to-month;_MM;Yes;Electronic check;69,70;316,90;Yes;1;J_6AY_NotUsing_MM
+6572-ADKRS;Female;0;J;No;No;46;_16AY+;Yes;No;Fiber optic;No;No;Yes;No;_Using;No;No;Month-to-month;_MM;Yes;Credit card (automatic);74,80;3548,30;No;0;J_16AY+_Using_MM
+5380-WJKOV;Male;0;J;No;No;34;_16AY+;Yes;Yes;Fiber optic;No;Yes;Yes;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;106,35;3549,25;Yes;1;J_16AY+_Using_MM
+8168-UQWWF;Female;0;J;No;No;11;_16AY;Yes;Yes;Fiber optic;No;No;Yes;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Bank transfer (automatic);97,85;1105,40;Yes;1;J_16AY_Using_MM
+8865-TNMNX;Male;0;J;Yes;Yes;10;_16AY;Yes;No;DSL;No;Yes;No;No;_Using;No;No;One year;_OY;No;Mailed check;49,55;475,70;No;0;J_16AY_Using_OY
+9489-DEDVP;Female;0;J;Yes;Yes;70;_16AY+;Yes;Yes;DSL;Yes;Yes;No;No;_Using;Yes;No;Two year;_TY;Yes;Credit card (automatic);69,20;4872,35;No;0;J_16AY+_Using_TY
+9867-JCZSP;Female;0;J;Yes;Yes;17;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;One year;_OY;No;Mailed check;20,75;418,25;No;0;J_16AY+_NotUsing_OY
+4671-VJLCL;Female;0;J;No;No;63;_16AY+;Yes;Yes;DSL;Yes;Yes;Yes;Yes;_Using;Yes;No;Two year;_TY;Yes;Credit card (automatic);79,85;4861,45;No;0;J_16AY+_Using_TY
+4080-IIARD;Female;0;J;Yes;No;13;_16AY;Yes;Yes;DSL;Yes;Yes;No;Yes;_Using;Yes;No;Month-to-month;_MM;Yes;Electronic check;76,20;981,45;No;0;J_16AY_Using_MM
+3714-NTNFO;Female;0;J;No;No;49;_16AY+;Yes;Yes;Fiber optic;No;No;No;No;_NotUsing;No;Yes;Month-to-month;_MM;Yes;Electronic check;84,50;3906,70;No;0;J_16AY+_NotUsing_MM
+5948-UJZLF;Male;0;J;No;No;2;_6AY;Yes;No;DSL;No;Yes;No;No;_Using;No;No;Month-to-month;_MM;No;Mailed check;49,25;97,00;No;0;J_6AY_Using_MM
+7760-OYPDY;Female;0;J;No;No;2;_6AY;Yes;No;Fiber optic;No;No;No;No;_NotUsing;Yes;No;Month-to-month;_MM;Yes;Electronic check;80,65;144,15;Yes;1;J_6AY_NotUsing_MM
+7639-LIAYI;Male;0;J;No;No;52;_16AY+;Yes;Yes;DSL;Yes;No;No;Yes;_Using;Yes;Yes;Two year;_TY;Yes;Credit card (automatic);79,75;4217,80;No;0;J_16AY+_Using_TY
+2954-PIBKO;Female;0;J;Yes;Yes;69;_16AY+;Yes;Yes;DSL;Yes;No;Yes;Yes;_Using;No;No;Two year;_TY;Yes;Credit card (automatic);64,15;4254,10;No;0;J_16AY+_Using_TY
+8012-SOUDQ;Female;1;S;No;No;43;_16AY+;Yes;Yes;Fiber optic;No;Yes;No;No;_Using;Yes;No;Month-to-month;_MM;Yes;Electronic check;90,25;3838,75;No;0;S_16AY+_Using_MM
+9420-LOJKX;Female;0;J;No;No;15;_16AY;Yes;No;Fiber optic;Yes;Yes;No;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Credit card (automatic);99,10;1426,40;Yes;1;J_16AY_Using_MM
+6575-SUVOI;Female;1;S;Yes;No;25;_16AY+;Yes;Yes;DSL;Yes;No;No;Yes;_Using;Yes;No;Month-to-month;_MM;Yes;Credit card (automatic);69,50;1752,65;No;0;S_16AY+_Using_MM
+7495-OOKFY;Female;1;S;Yes;No;8;_16AY;Yes;Yes;Fiber optic;No;Yes;No;No;_Using;No;No;Month-to-month;_MM;Yes;Credit card (automatic);80,65;633,30;Yes;1;S_16AY_Using_MM
+4667-QONEA;Female;1;S;Yes;Yes;60;_16AY+;Yes;No;DSL;Yes;Yes;Yes;Yes;_Using;No;Yes;One year;_OY;Yes;Credit card (automatic);74,85;4456,35;No;0;S_16AY+_Using_OY
+1658-BYGOY;Male;1;S;No;No;18;_16AY+;Yes;Yes;Fiber optic;No;No;No;No;_NotUsing;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;95,45;1752,55;Yes;1;S_16AY+_NotUsing_MM
+8769-KKTPH;Female;0;J;Yes;Yes;63;_16AY+;Yes;Yes;Fiber optic;Yes;No;No;No;_Using;Yes;Yes;One year;_OY;Yes;Credit card (automatic);99,65;6311,20;No;0;J_16AY+_Using_OY
+5067-XJQFU;Male;1;S;Yes;Yes;66;_16AY+;Yes;Yes;Fiber optic;No;Yes;Yes;Yes;_Using;Yes;Yes;One year;_OY;Yes;Electronic check;108,45;7076,35;No;0;S_16AY+_Using_OY
+3957-SQXML;Female;0;J;Yes;Yes;34;_16AY+;Yes;Yes;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;No;Credit card (automatic);24,95;894,30;No;0;J_16AY+_NotUsing_TY
+5954-BDFSG;Female;0;J;No;No;72;_16AY+;Yes;Yes;Fiber optic;No;No;Yes;Yes;_Using;Yes;Yes;Two year;_TY;Yes;Credit card (automatic);107,50;7853,70;No;0;J_16AY+_Using_TY
+0434-CSFON;Female;0;J;Yes;No;47;_16AY+;Yes;Yes;Fiber optic;No;No;Yes;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;100,50;4707,10;No;0;J_16AY+_Using_MM
+1215-FIGMP;Male;0;J;No;No;60;_16AY+;Yes;Yes;Fiber optic;No;Yes;No;No;_Using;Yes;No;Month-to-month;_MM;Yes;Bank transfer (automatic);89,90;5450,70;No;0;J_16AY+_Using_MM
+0526-SXDJP;Male;0;J;Yes;No;72;_16AY+;No;No phone service;DSL;Yes;Yes;Yes;No;_Using;No;No;Two year;_TY;No;Bank transfer (automatic);42,10;2962,00;No;0;J_16AY+_Using_TY
+0557-ASKVU;Female;0;J;Yes;Yes;18;_16AY+;Yes;No;DSL;No;No;Yes;Yes;_Using;No;No;One year;_OY;Yes;Credit card (automatic);54,40;957,10;No;0;J_16AY+_Using_OY
+5698-BQJOH;Female;0;J;No;No;9;_16AY;Yes;Yes;Fiber optic;No;No;No;No;_NotUsing;Yes;Yes;Month-to-month;_MM;No;Electronic check;94,40;857,25;Yes;1;J_16AY_NotUsing_MM
+5122-CYFXA;Female;0;J;No;No;3;_6AY;Yes;No;DSL;No;Yes;No;Yes;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;75,30;244,10;No;0;J_6AY_Using_MM
+8627-ZYGSZ;Male;0;J;Yes;No;47;_16AY+;Yes;Yes;Fiber optic;No;Yes;No;No;_Using;No;No;One year;_OY;Yes;Electronic check;78,90;3650,35;No;0;J_16AY+_Using_OY
+3410-YOQBQ;Female;0;J;No;No;31;_16AY+;Yes;No;DSL;No;Yes;Yes;Yes;_Using;Yes;Yes;Two year;_TY;No;Mailed check;79,20;2497,20;No;0;J_16AY+_Using_TY
+3170-NMYVV;Female;0;J;Yes;Yes;50;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;No;Bank transfer (automatic);20,15;930,90;No;0;J_16AY+_NotUsing_TY
+7410-OIEDU;Male;0;J;No;No;10;_16AY;Yes;No;Fiber optic;Yes;No;Yes;No;_Using;No;No;Month-to-month;_MM;Yes;Mailed check;79,85;887,35;No;0;J_16AY_Using_MM
+2273-QCKXA;Male;0;J;No;No;1;_6AY;Yes;No;DSL;No;No;No;Yes;_Using;No;No;Month-to-month;_MM;No;Mailed check;49,05;49,05;No;0;J_6AY_Using_MM
+0731-EBJQB;Female;0;J;Yes;Yes;52;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;One year;_OY;Yes;Electronic check;20,40;1090,65;No;0;J_16AY+_NotUsing_OY
+1891-QRQSA;Male;1;S;Yes;Yes;64;_16AY+;Yes;Yes;Fiber optic;Yes;No;Yes;Yes;_Using;Yes;Yes;Two year;_TY;Yes;Bank transfer (automatic);111,60;7099,00;No;0;S_16AY+_Using_TY
+8028-PNXHQ;Male;0;J;Yes;Yes;62;_16AY+;Yes;Yes;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;Yes;Bank transfer (automatic);24,25;1424,60;No;0;J_16AY+_NotUsing_TY
+5630-AHZIL;Female;0;J;No;Yes;3;_6AY;Yes;No;DSL;Yes;No;No;Yes;_Using;No;Yes;Month-to-month;_MM;Yes;Bank transfer (automatic);64,50;177,40;No;0;J_6AY_Using_MM
+2673-CXQEU;Female;1;S;No;No;56;_16AY+;Yes;Yes;Fiber optic;Yes;Yes;Yes;No;_Using;Yes;Yes;One year;_OY;No;Electronic check;110,50;6139,50;No;0;S_16AY+_Using_OY
+6416-JNVRK;Female;0;J;No;No;46;_16AY+;Yes;No;DSL;No;No;No;No;_NotUsing;No;Yes;One year;_OY;No;Credit card (automatic);55,65;2688,85;No;0;J_16AY+_NotUsing_OY
+5590-ZSKRV;Female;0;J;Yes;Yes;8;_16AY;Yes;No;DSL;Yes;Yes;No;No;_Using;No;No;Month-to-month;_MM;No;Mailed check;54,65;482,25;No;0;J_16AY_Using_MM
+0191-ZHSKZ;Male;1;S;No;No;30;_16AY+;Yes;No;DSL;Yes;Yes;No;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Electronic check;74,75;2111,30;No;0;S_16AY+_Using_MM
+3887-PBQAO;Female;0;J;Yes;Yes;45;_16AY+;Yes;Yes;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;One year;_OY;Yes;Credit card (automatic);25,90;1216,60;No;0;J_16AY+_NotUsing_OY
+5919-TMRGD;Female;0;J;No;Yes;1;_6AY;Yes;No;Fiber optic;No;No;No;No;_NotUsing;Yes;No;Month-to-month;_MM;Yes;Electronic check;79,35;79,35;Yes;1;J_6AY_NotUsing_MM
+8108-UXRQN;Female;0;J;Yes;Yes;11;_16AY;No;No phone service;DSL;Yes;No;No;No;_Using;Yes;Yes;Month-to-month;_MM;No;Electronic check;50,55;565,35;No;0;J_16AY_Using_MM
+9191-MYQKX;Female;0;J;Yes;No;7;_16AY;Yes;No;Fiber optic;No;No;Yes;No;_Using;No;No;Month-to-month;_MM;Yes;Bank transfer (automatic);75,15;496,90;Yes;1;J_16AY_Using_MM
+9919-YLNNG;Female;0;J;No;No;42;_16AY+;Yes;No;Fiber optic;No;Yes;Yes;Yes;_Using;Yes;Yes;Month-to-month;_MM;Yes;Bank transfer (automatic);103,80;4327,50;No;0;J_16AY+_Using_MM
+0318-ZOPWS;Female;0;J;Yes;No;49;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;Yes;Bank transfer (automatic);20,15;973,35;No;0;J_16AY+_NotUsing_TY
+4445-ZJNMU;Male;0;J;No;No;9;_16AY;Yes;Yes;Fiber optic;No;Yes;No;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Credit card (automatic);99,30;918,75;No;0;J_16AY_Using_MM
+4808-YNLEU;Female;0;J;Yes;No;35;_16AY+;Yes;No;DSL;Yes;No;No;No;_Using;Yes;No;One year;_OY;Yes;Bank transfer (automatic);62,15;2215,45;No;0;J_16AY+_Using_OY
+1862-QRWPE;Female;0;J;Yes;Yes;48;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;No;Bank transfer (automatic);20,65;1057,00;No;0;J_16AY+_NotUsing_TY
+2796-NNUFI;Female;0;J;Yes;Yes;46;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;Yes;Mailed check;19,95;927,10;No;0;J_16AY+_NotUsing_TY
+3016-KSVCP;Male;0;J;Yes;No;29;_16AY+;No;No phone service;DSL;No;No;No;No;_NotUsing;Yes;No;Month-to-month;_MM;No;Mailed check;33,75;1009,25;No;0;J_16AY+_NotUsing_MM
+4767-HZZHQ;Male;0;J;Yes;Yes;30;_16AY+;Yes;No;Fiber optic;No;Yes;Yes;No;_Using;No;No;Month-to-month;_MM;No;Bank transfer (automatic);82,05;2570,20;No;0;J_16AY+_Using_MM
+2424-WVHPL;Male;1;S;No;No;1;_6AY;Yes;No;Fiber optic;No;No;No;Yes;_Using;No;No;Month-to-month;_MM;No;Electronic check;74,70;74,70;No;0;S_6AY_Using_MM
+7233-PAHHL;Male;0;J;Yes;Yes;66;_16AY+;Yes;Yes;DSL;Yes;No;Yes;Yes;_Using;Yes;Yes;Two year;_TY;Yes;Mailed check;84,00;5714,25;No;0;J_16AY+_Using_TY
+6067-NGCEU;Female;0;J;No;No;65;_16AY+;Yes;Yes;Fiber optic;Yes;Yes;Yes;No;_Using;Yes;Yes;Month-to-month;_MM;Yes;Credit card (automatic);111,05;7107,00;No;0;J_16AY+_Using_MM
+9848-JQJTX;Male;0;J;No;No;72;_16AY+;Yes;Yes;Fiber optic;No;Yes;Yes;No;_Using;Yes;Yes;Two year;_TY;Yes;Bank transfer (automatic);100,90;7459,05;No;0;J_16AY+_Using_TY
+8637-XJIVR;Female;0;J;No;No;12;_16AY;Yes;Yes;Fiber optic;Yes;No;No;No;_Using;No;No;Month-to-month;_MM;Yes;Electronic check;78,95;927,35;Yes;1;J_16AY_Using_MM
+9803-FTJCG;Male;0;J;Yes;Yes;71;_16AY+;Yes;Yes;DSL;Yes;Yes;No;Yes;_Using;No;No;One year;_OY;Yes;Credit card (automatic);66,85;4748,70;No;0;J_16AY+_Using_OY
+0278-YXOOG;Male;0;J;No;No;5;_6AY;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Month-to-month;_MM;No;Mailed check;21,05;113,85;Yes;1;J_6AY_NotUsing_MM
+3212-KXOCR;Male;0;J;No;No;52;_16AY+;Yes;No;No;No internet service;No internet service;No internet service;No internet service;_NotUsing;No internet service;No internet service;Two year;_TY;No;Bank transfer (automatic);21,00;1107,20;No;0;J_16AY+_NotUsing_TY
