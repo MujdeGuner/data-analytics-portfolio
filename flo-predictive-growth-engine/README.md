@@ -77,6 +77,12 @@ A comparative look at how AI-driven clustering refines traditional rule-based se
 
 ---
 
+## 📢 Featured on LinkedIn
+I shared the strategic insights and the story behind this project on LinkedIn. You can join the discussion and see the visual presentation here:
+[**🔗 View the Project Highlight on LinkedIn**](https://www.linkedin.com/feed/update/urn:li:activity:7379028658692210689/)
+
+---
+
 ### 📩 Let's Connect
 **Müjde Güner** – *Data Analytics Specialist (MSc IT)*
 [LinkedIn](https://linkedin.com/in/mujde-guner-msc) | [Email](mailto:mujdeguner@gmail.com)
