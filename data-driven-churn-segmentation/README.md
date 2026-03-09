@@ -37,4 +37,6 @@ Based on the `MRR.csv` and `Chart.csv` analysis:
 
 ---
 
-
+### 📩 Contact Information
+**Müjde Güner** – *Data Analytics Specialist (MSc IT)*
+[LinkedIn](https://linkedin.com/in/mujde-guner-msc) | [Email](mailto:mujdeguner@gmail.com)
