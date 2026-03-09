@@ -65,7 +65,8 @@ Identifying the **13% of employees** currently in Medium-High or High-Risk categ
 ---
 
 ## 📢 Featured on LinkedIn
-I shared the What-If Analysis of this project on LinkedIn. You can join the discussion and see the visual presentation here:
+I shared the What-If Analysis of this project on LinkedIn. 
+You can join the discussion and see the visual presentation here:
 [**🔗 View the Project Highlight on LinkedIn**](https://www.linkedin.com/feed/update/urn:li:activity:7356746464565379072/)
 
 ---
