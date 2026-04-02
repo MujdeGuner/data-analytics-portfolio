@@ -12,7 +12,8 @@
 * **[HR Attrition Analysis | SQL & Power BI](./HR_Attrition):** End-to-end analysis of employee turnover. Extracted data from **SQL** and created an interactive dashboard in **Power BI** to identify key attrition drivers.
 
 ## 🛠️ Technical Toolkit
-* **Data Tools:** SQL (Data Extraction & Cleaning), Power BI (Advanced Dashboard Design), Excel.
+* **Languages & Querying:** **SQL** (Data Extraction & Manipulation), **Python** (Data Analysis & Automation).
+* **Data Visualization:** **Power BI** (Advanced Dashboard Design), Excel.
 * **Analytics & Research:** RFM Segmentation, CLTV Prediction, Market Research, Data Modeling.
 * **Education:** Master of Science (MSc) in Information Technologies.
 
